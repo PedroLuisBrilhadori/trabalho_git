@@ -4,7 +4,7 @@ using namespace std;
 
 int main () {
 
-    cout << "Hello World! \n";
-
+    cout << "Calculo da função, que funciona \n";
+    
     return 0;
 }
